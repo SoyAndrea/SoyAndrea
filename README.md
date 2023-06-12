@@ -11,7 +11,7 @@
 - <code><img height="27" src="https://avatars.githubusercontent.com/u/19267758?s=200&v=4" alt="the carpentries logo"></code>[The Carpentries](https://github.com/carpentries)
 
 
-### Comunidades en las que participé :blush:
+#### Comunidades en las que participé :blush:
 - <code><img height="27" src="https://avatars.githubusercontent.com/u/38664570?s=200&v=4" alt="rladies buenos aires logo"></code>[R-Ladies Buenos Aires](https://github.com/RLadies-BA) (2019 - 2023)
 - <code><img height="27" src="https://avatars.githubusercontent.com/u/62350217?s=200&v=4" alt="rladies buenos aires logo"></code>[Metadocencia](https://github.com/MetaDocencia) (2021)
 
