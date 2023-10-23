@@ -10,6 +10,7 @@ Desde 2018 participo en espacios colaborativos de aprendizaje en ciencia de dato
 - <code><img height="27" src="https://avatars.githubusercontent.com/u/38664570?s=200&v=4" alt="rladies buenos aires logo"></code>[R-Ladies Buenos Aires](https://github.com/RLadies-BA) (2019 - 2023)
 
 ### Charlas y talleres / Workshops & talks
+[![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=SIES_LatinR2023)](https://github.com/SoyAndrea/SIES_LatinR2023)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=tallerEPH)](https://github.com/SoyAndrea/tallerEPH)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=csvconfv7)](https://github.com/SoyAndrea/csvconfv7)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=karbartolome&repo=gt-spotify)](https://github.com/karbartolome/gt-spotify)
