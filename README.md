@@ -1,6 +1,6 @@
 ### Hola, Soy Andre / Hi there, I'm Andre 👋
 
-Soy socióloga (UBA) y actualmente trabajo como analista de datos en el ámbito público. / I am a sociologist (UBA) and currently work as a data analyst in the public sector.
+Soy socióloga (UBA) y actualmente trabajo como analista de estadísticas poblacionales en el ámbito público. / I am a sociologist (UBA) and currently work as a population statistics analyst in the public sector.
 
 ### Comunidades de R en las que participo / R communities in which I participate :grin: 
 Desde 2018 participo en espacios colaborativos de aprendizaje en ciencia de datos, principalmente en el uso de R en comunidades que promueven la diversidad de género(s) y una atmósfera amigable para personas interesadas en aprender a programar en R, ¡conócelas!:
@@ -11,8 +11,8 @@ Desde 2018 participo en espacios colaborativos de aprendizaje en ciencia de dato
 
 ### Charlas y talleres / Workshops & talks
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=SIES_LatinR2023)](https://github.com/SoyAndrea/SIES_LatinR2023)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=tallerEPH)](https://github.com/SoyAndrea/tallerEPH)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=Porfinviernes)](https://github.com/SoyAndrea/Porfinviernes)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=tallerEPH)](https://github.com/SoyAndrea/tallerEPH)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=csvconfv7)](https://github.com/SoyAndrea/csvconfv7)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=karbartolome&repo=gt-spotify)](https://github.com/karbartolome/gt-spotify)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=rladies-eastlansing&repo=2022-accessible_dataviz)](https://github.com/rladies-eastlansing/2022-accessible_dataviz)
