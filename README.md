@@ -12,12 +12,13 @@ Desde 2018 participo en espacios colaborativos de aprendizaje en ciencia de dato
 ### Charlas y talleres / Workshops & talks
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=SIES_LatinR2023)](https://github.com/SoyAndrea/SIES_LatinR2023)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=tallerEPH)](https://github.com/SoyAndrea/tallerEPH)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=Porfinviernes)](https://github.com/SoyAndrea/Porfinviernes)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=csvconfv7)](https://github.com/SoyAndrea/csvconfv7)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=karbartolome&repo=gt-spotify)](https://github.com/karbartolome/gt-spotify)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=rladies-eastlansing&repo=2022-accessible_dataviz)](https://github.com/rladies-eastlansing/2022-accessible_dataviz)
 
 ### Lenguajes y herramientas / Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=r,git,github,netlify,html,wordpress,ai&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,git,github,netlify,html,css,sass,markdown,wordpress,ai&theme=light)](https://skillicons.dev)
 
 ### Dónde encontrarme / Where to find me 🌍
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreasociologa/)
