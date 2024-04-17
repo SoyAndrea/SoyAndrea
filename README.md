@@ -1,9 +1,15 @@
 ### Hola, Soy Andre / Hi there, I'm Andre 👋
 
-Soy socióloga (UBA) y actualmente trabajo como analista de estadísticas poblacionales en el ámbito público. / I am a sociologist (UBA) and currently work as a population statistics analyst in the public sector.
+[ES] Soy socióloga (UBA) y actualmente trabajo como analista de estadísticas poblacionales en el Instituto Nacional de Estadística y Censos - [INDEC Argentina](https://www.indec.gob.ar/), y ejerzo la docencia universitaria en Ciencias Sociales y Ciencia de Datos donde enseño a programar en R. 
+
+[EN] I am a sociologist (UBA) and currently working as a population statistics analyst at the National Institute of Statistics and Censuses - [INDEC Argentina](https://www.indec.gob.ar/), I am also a university professor of Social Sciences and Data Science where I teach R.
 
 ### Comunidades de R en las que participo / R communities in which I participate :grin: 
-Desde 2018 participo en espacios colaborativos de aprendizaje en ciencia de datos, principalmente en el uso de R en comunidades que promueven la diversidad de género(s) y una atmósfera amigable para personas interesadas en aprender a programar en R, ¡conócelas!:
+[ES] Desde 2018 participo en espacios colaborativos de aprendizaje en ciencia de datos, principalmente en el uso de R en comunidades que promueven la diversidad de género(s) y una atmósfera amigable para personas interesadas en aprender a programar en R:
+
+[EN] Since 2018, I've been participating in collaborative learning spaces in data science, mainly around the use of R in communities that promote gender(s) diversity and a friendly atmosphere for people interested in learning to code in R:
+
+- <code><img height="27" src="https://avatars.githubusercontent.com/u/1200269" alt="rOpenSci logo"></code>[rOpenSci](https://github.com/ropensci)(2023 -  ∞)
 - <code><img height="27" src="https://avatars.githubusercontent.com/u/21295846?s=200&v=4" alt="rladies global logo"></code>[R-Ladies Global](https://github.com/rladies)(2023 -  ∞)
 - <code><img height="27" src="https://avatars.githubusercontent.com/u/42558048?s=200&v=4" alt="latinR logo"></code>[LatinR](https://github.com/LatinR) (2020 -  ∞)
 - <code><img height="27" src="https://avatars.githubusercontent.com/u/19267758?s=200&v=4" alt="the carpentries logo"></code>[The Carpentries](https://github.com/carpentries)(2022 -  ∞)
@@ -23,5 +29,6 @@ Desde 2018 participo en espacios colaborativos de aprendizaje en ciencia de dato
 ### Dónde encontrarme / Where to find me 🌍
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreasociologa/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/me_andre)
-[![website Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://soyandrea.netlify.app/)
+[![Mastodonr Badge](https://img.shields.io/badge/Mastodon-9F2B68?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@me_andre)
+[![website Badge](https://img.shields.io/badge/Netlify-5D3FD3?style=for-the-badge&logo=netlify&logoColor=white)](https://soyandrea.netlify.app/)
 
