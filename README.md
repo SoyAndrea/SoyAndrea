@@ -8,7 +8,7 @@
 [ES] Desde 2018 participo en espacios colaborativos de aprendizaje en ciencia de datos, principalmente en el uso de R en comunidades que promueven la diversidad de género(s) y una atmósfera amigable para personas interesadas en aprender a programar en R:
 
 [EN] Since 2018, I've been participating in collaborative learning spaces in data science, mainly around the use of R in communities that promote gender(s) diversity and a friendly atmosphere for people interested in learning to code in R:
-
+- <code><img height="27" src="https://avatars.githubusercontent.com/u/43609757" alt="r en buenos aires logo"></code>[R en Buenos Aires](https://github.com/renbaires)(2024 -  ∞)
 - <code><img height="27" src="https://avatars.githubusercontent.com/u/1200269" alt="rOpenSci logo"></code>[rOpenSci](https://github.com/ropensci)(2023 -  ∞)
 - <code><img height="27" src="https://avatars.githubusercontent.com/u/21295846?s=200&v=4" alt="rladies global logo"></code>[R-Ladies Global](https://github.com/rladies)(2023 -  ∞)
 - <code><img height="27" src="https://avatars.githubusercontent.com/u/42558048?s=200&v=4" alt="latinR logo"></code>[LatinR](https://github.com/LatinR) (2020 -  ∞)
