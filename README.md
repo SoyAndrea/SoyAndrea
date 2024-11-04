@@ -2,23 +2,11 @@
 
 I am a sociologist (UBA) and currently working as a population statistics analyst at the National Institute of Statistics and Censuses - [INDEC Argentina](https://www.indec.gob.ar/), I am also a university professor of Social Sciences and Data Science where I teach R.
 
-### Where to find me 🌍
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreasociologa/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/me_andre)
-[![Mastodonr Badge](https://img.shields.io/badge/Mastodon-9F2B68?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@me_andre)
-[![website Badge](https://img.shields.io/badge/Netlify-5D3FD3?style=for-the-badge&logo=netlify&logoColor=white)](https://soyandrea.netlify.app/)
-
-
 ###  R communities in which I participate :grin: 
 
 Since 2018, I've been participating in collaborative learning spaces in data science, mainly around the use of R in communities that promote gender(s) diversity and a friendly atmosphere for people interested in learning to code in R:
 
-- <code><img height="27" src="https://avatars.githubusercontent.com/u/43609757" alt="r en buenos aires logo"></code>[R en Buenos Aires](https://github.com/renbaires)(2024 -  ∞)
-- <code><img height="27" src="https://avatars.githubusercontent.com/u/1200269" alt="rOpenSci logo"></code>[rOpenSci](https://github.com/ropensci)(2023 -  ∞)
-- <code><img height="27" src="https://avatars.githubusercontent.com/u/21295846?s=200&v=4" alt="rladies global logo"></code>[R-Ladies Global](https://github.com/rladies)(2023 -  ∞)
-- <code><img height="27" src="https://avatars.githubusercontent.com/u/42558048?s=200&v=4" alt="latinR logo"></code>[LatinR](https://github.com/LatinR) (2020 -  ∞)
-- <code><img height="27" src="https://avatars.githubusercontent.com/u/19267758?s=200&v=4" alt="the carpentries logo"></code>[The Carpentries](https://github.com/carpentries)(2022 -  ∞)
-- <code><img height="27" src="https://avatars.githubusercontent.com/u/38664570?s=200&v=4" alt="rladies buenos aires logo"></code>[R-Ladies Buenos Aires](https://github.com/RLadies-BA) (2019 - 2023)
+<code><img height="27" src="https://avatars.githubusercontent.com/u/43609757" alt="r en buenos aires logo"></code>[R en Buenos Aires](https://github.com/renbaires), <code><img height="27" src="https://avatars.githubusercontent.com/u/1200269" alt="rOpenSci logo"></code>[rOpenSci](https://github.com/ropensci), <code><img height="27" src="https://avatars.githubusercontent.com/u/21295846?s=200&v=4" alt="rladies global logo"></code>[R-Ladies Global](https://github.com/rladies), <code><img height="27" src="https://avatars.githubusercontent.com/u/42558048?s=200&v=4" alt="latinR logo"></code>[LatinR](https://github.com/LatinR), <code><img height="27" src="https://avatars.githubusercontent.com/u/19267758?s=200&v=4" alt="the carpentries logo"></code>[The Carpentries](https://github.com/carpentries), <code><img height="27" src="https://avatars.githubusercontent.com/u/38664570?s=200&v=4" alt="rladies buenos aires logo"></code>[R-Ladies Buenos Aires](https://github.com/RLadies-BA).
 
 ### Workshops & talks
 [![](https://github-readme-stats.vercel.app/api/pin/?username=soyandrea&repo=SIES_LatinR2023)](https://github.com/SoyAndrea/SIES_LatinR2023)
