@@ -1,6 +1,6 @@
 ### Hi there, I'm Andre 👋
 
-I am a sociologist (UBA) and currently working as a population statistics analyst at the National Institute of Statistics and Censuses - [INDEC Argentina](https://www.indec.gob.ar/), I am also a university professor of Social Sciences and Data Science where I teach R.
+I am a sociologist (UBA) and currently working as an Analyst in Population Statistics in the public sector, I am also a university professor of Social Sciences and Data Science where I teach R.
 
 ###  R communities in which I participate :grin: 
 
